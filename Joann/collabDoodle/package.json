@@ -1,0 +1,15 @@
+{
+  "name": "collab-doodle",
+  "version": "1.0.0",
+  "description": "a collaborative drawing canvas using socket.io and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
